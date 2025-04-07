@@ -9,12 +9,11 @@ Este repositório documenta uma atividade prática utilizando **IA Generativa Re
 ## Processo
 
 ### 1. Imagens usadas
-Adicionei imagens com textos variados na pasta `/inputs`, como:
+Adicionei imagens com textos na pasta `/inputs`, como:
 - Imagem de uma anotação escrita
-- Imagem de um documento escaneado
 
 ### 2. Reconhecimento de texto
-Utilizei o **Copilot no Word** e também testei a ferramenta de OCR do **Azure Cognitive Services** para extrair os textos. O resultado foi salvo na pasta `/output` com os mesmos nomes dos arquivos originais.
+Utilizei o **Copilot no Microsoft Edge** para extrair os textos. O resultado foi salvo na pasta `/output` com os mesmos nomes dos arquivos originais.
 
 Exemplo:
 - `inputs/exemplo1.jpg` → `output/exemplo1.txt`
